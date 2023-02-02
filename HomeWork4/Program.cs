@@ -1,7 +1,7 @@
 ﻿/*Выяснить является ли число чётным*/
 
 Console.WriteLine("Введите первое число ");
-double number = double.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine());
 
 if (number % 2 == 0)
 {
