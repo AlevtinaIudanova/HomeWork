@@ -1,0 +1,15 @@
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.AssemblyReference.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfoInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfo.cs
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\bin\Debug\net7.0\HomeWork8.exe
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\bin\Debug\net7.0\HomeWork8.deps.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\bin\Debug\net7.0\HomeWork8.runtimeconfig.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\bin\Debug\net7.0\HomeWork8.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\bin\Debug\net7.0\HomeWork8.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\refint\HomeWork8.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\HomeWork8.genruntimeconfig.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork\HomeWork8\obj\Debug\net7.0\ref\HomeWork8.dll
